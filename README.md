@@ -11,3 +11,5 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+VoidToken deployed to: 0xaAA2f15fed825A74b4e62b8685AB301E6c364A5f
+voidNFT deployed to: 0xaAA2f15fed825A74b4e62b8685AB301E6c364A5f
